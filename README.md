@@ -15,7 +15,9 @@ Setup instructions:
 
 4. You need to install Tensorflow >=2.0.1 (recommended) and Python < 3.8
 
-5. After the installation is complete, run the development server using the command "python main.py", and you can preview it in your browser.
+5. After the installation is complete, you need to execute Facial_Expression_Training.ipynb file to represent the model as a JSON          string.
+
+6. Then, run the development server using the command "python main.py", and you can preview it in your browser.
 
 NOTE:
 1. In camera.py file : line 12, the default video path is your computer's web camera. There are two videos in the "videos" folder which    you can use to see the results by setting the path to those videos.
