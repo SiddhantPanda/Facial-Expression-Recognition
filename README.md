@@ -18,9 +18,10 @@ Setup instructions:
 5. After the installation is complete, run the development server using the command "python main.py", and you can preview it in your browser.
 
 NOTE:
-1. In camera.py file : line 12, the default video path is your computer's web camera. There are two videos in the project folder which you 
-   can use to see the results by setting the path to those videos.
+1. In camera.py file : line 12, the default video path is your computer's web camera. There are two videos in the "videos" folder which    you can use to see the results by setting the path to those videos.
   
 2. The server will start at http://0.0.0.0:5000/
    If the site doesn't opens in the browser set "debug = False" in main.py : line 27
    Now, the site will be accessible at http://127.0.0.1:5000/
+
+Hope you like it 😊
